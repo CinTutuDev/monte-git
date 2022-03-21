@@ -1,0 +1,3 @@
+Trabajo con servidores
+Conocimiento de Git
+Trabajo con Docker
