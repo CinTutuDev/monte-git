@@ -1,0 +1,2 @@
+nombre usuario :Cinta
+correo: cintat@gmail.com
